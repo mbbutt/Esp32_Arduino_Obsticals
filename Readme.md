@@ -73,9 +73,6 @@ Users can modify these parameters to fine-tune the behavior of the physics simul
 
 ![Project Screenshot](https://github.com/mbbutt/Esp32_Arduino_Obsticals/tree/main/media/1742254307498.jpg)
 
-
-[Watch Demo Video](https://github.com/mbbutt/Esp32_Arduino_Obsticals/tree/main/media/1742253668261.mp4)
-
 ## Contributing
 
 This project is still in its **early stages**. Contributions, improvements, and suggestions are welcome!
